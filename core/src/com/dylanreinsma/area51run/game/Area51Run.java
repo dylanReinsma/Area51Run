@@ -1,4 +1,4 @@
-package com.dylanreinsma.koinman.game;
+package com.dylanreinsma.area51run.game;
 
 import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
@@ -13,7 +13,7 @@ import com.badlogic.gdx.math.Rectangle;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class KoinMan extends ApplicationAdapter {
+public class Area51Run extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture background;
 	Texture[] man;
